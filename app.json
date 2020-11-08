@@ -1,0 +1,28 @@
+{
+  "id": "425df973-0cda-4173-9e7c-e91ae677bae1",
+  "name": "Flutter Demo - BC APIs",
+  "publisher": "Kepty.cz, Ing. Tomas Kapitan",
+  "version": "1.0.0.0",
+  "brief": "Flutter Demo - BC APIs",
+  "description": "Flutter Demo - BC APIs",
+  "privacyStatement": "http://www.kepty.cz",
+  "EULA": "http://www.kepty.cz",
+  "help": "http://www.kepty.cz",
+  "url": "http://www.kepty.cz",
+  "logo": "./res/logo-placeholder.png",
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "application": "15.0.0.0",
+  "idRanges": [
+    {
+      "from": 90000,
+      "to": 90100
+    }
+  ],
+  "features": [
+    "TranslationFile"
+  ],
+  "contextSensitiveHelpUrl": "http://www.kepty.cz",
+  "showMyCode": true,
+  "runtime": "4.0"
+}

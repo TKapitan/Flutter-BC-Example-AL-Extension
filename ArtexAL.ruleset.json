@@ -1,0 +1,36 @@
+{
+    "name": "ArtexAL",
+    "description": "Our own rules for AL checks",
+    "rules": [
+        {
+            "id": "AS0053",
+            "action": "None",
+            "justification": "Do not check extension target level."
+        },
+        {
+            "id": "AS0084",
+            "action": "None",
+            "justification": "Do not force AppSource object range."
+        },
+        {
+            "id": "AA0072",
+            "action": "None",
+            "justification": "x"
+        }   ,
+        {
+            "id": "AA0150",
+            "action": "None",
+            "justification": "x"
+        }    ,
+        {
+            "id": "AA0232",
+            "action": "None",
+            "justification": "x"
+        }    ,
+        {
+            "id": "AA0240",
+            "action": "None",
+            "justification": "x"
+        }   
+    ]
+}
